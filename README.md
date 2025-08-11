@@ -1,5 +1,3 @@
-# EHB420-Artificial-Neural-Networks-architectural-style-classification
-
 # Architectural Style Classification Using Artificial Neural Networks
 
 This project focuses on **classifying architectural styles** from images using **Artificial Neural Networks (ANN)** in MATLAB.  
@@ -43,6 +41,4 @@ The dataset consists of **25 distinct architectural styles**, each represented b
 - **Image Processing Toolbox**
 - **Python**
 
----
 
-## 📂 Project Structure
