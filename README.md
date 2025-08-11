@@ -41,4 +41,12 @@ The dataset consists of **25 distinct architectural styles**, each represented b
 - **Image Processing Toolbox**
 - **Python**
 
+---
 
+## 📥 Dataset Download
+The dataset used in this project can be downloaded from Kaggle:  
+🔗 [International Architectural Styles Combined Dataset](https://www.kaggle.com/datasets/jungseolin/international-architectural-styles-combined)
+
+After downloading, place the dataset inside a folder named `architectural-styles-dataset/` in the project root.
+
+---
